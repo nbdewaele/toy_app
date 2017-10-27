@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple `User` and `Micropost` scaffolded app.  Validations and relationships set.
 
-Things you may want to cover:
+* Ruby version: 2.4.1
 
-* Ruby version
+* Rails version: 5.1.4
 
-* System dependencies
+* System dependencies: pg
 
-* Configuration
+* Database creation: pg
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
 
 * ...
