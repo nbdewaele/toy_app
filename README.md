@@ -1,4 +1,5 @@
 # README
+#Completed
 
 A simple `User` and `Micropost` scaffolded app.  Validations and relationships set.
 
@@ -10,5 +11,4 @@ A simple `User` and `Micropost` scaffolded app.  Validations and relationships s
 
 * Database creation: pg
 
-
-* ...
+It is only set up to run locally.  Type `rails s` in the command line.
